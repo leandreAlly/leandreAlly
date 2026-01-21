@@ -1,6 +1,6 @@
 <img  src="https://res.cloudinary.com/ddsml4rsl/image/upload/v1704487086/private/Frame_1_ncmgbt.png"/>
 <h1 align="center">Hi 👋, I'm Leandre Ally</h1>
-<h3 align="center">A Motivated Full-stack developer, currently learning python🐍</h3>
+<h3 align="center">A Motivated Full-stack developer, currently exploring Java☕️</h3>
 
 
 ## 🌐 Socials:
